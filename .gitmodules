@@ -1,0 +1,9 @@
+[submodule "Robot"]
+	path = Robot
+	url = https://github.com/utvecklingsgrupp/RobotProject.git
+[submodule "Ordering"]
+	path = Ordering
+	url = https://github.com/utvecklingsgrupp/Ordering.git
+[submodule "utvecklingsprojektServerNew"]
+	path = utvecklingsprojektServerNew
+	url = https://github.com/luiishu/utvecklingsprojektServerNew.git
